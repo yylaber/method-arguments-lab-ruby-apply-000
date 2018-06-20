@@ -1,5 +1,5 @@
 def introduction(name)
-  puts "Hello "  + name
+  puts "Hi, my name is "  + name
 end
 puts "rgr"
 puts introduction("Yosef")
