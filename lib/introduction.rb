@@ -4,6 +4,6 @@ end
 # puts "rgr"
 puts introduction("Josh")
 def introduction_with_language(name, lang)
-  puts name + lang
+  puts Hi, my name is and I am learning to program in .
 end
-puts introduction_with_language("Yosef", "English")
+puts introduction_with_language("Josh", "Ember.js")
