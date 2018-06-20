@@ -5,4 +5,4 @@ puts introduction("Yosef")
 def introduction_with_language(name, lang)
   puts name + lang
 end
-puts introduction("Yosef", "English")
+puts introduction_with_language("Yosef", "English")
